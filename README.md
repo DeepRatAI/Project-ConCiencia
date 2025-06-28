@@ -1,102 +1,101 @@
-# 🧠 Proyecto ConCiencia
+# 🧠 Project ConCiencia
 
-**“No hay ciencia más urgente que la de comprendernos a nosotros mismos.”**  
-_Un intento técnico, poético y pragmático por modelar lo inefable: la conciencia humana._
-
----
-
-## 🧭 Visión General
-
-**Proyecto ConCiencia** nace de una obsesión vital: **comprender, modelar y (tal vez) definir la conciencia**.  
-No desde el dogma ni desde el reduccionismo, sino desde una sinergia entre ciencia, arte, ingeniería y filosofía.
-
-Este no es un proyecto convencional. No tiene un endpoint fijo, ni un MVP tradicional.  
-Es una **iniciativa transdisciplinaria** que se apoya en el poder de la inteligencia artificial para investigar los patrones, manifestaciones y correlatos de la subjetividad humana.
-
-A través del uso de **NLP**, **visión computacional**, **modelos generativos** y **plataformas cognitivas**, intento hallar lo que aún no ha sido nombrado:  
-> Las ecuaciones que expresan lo que se siente estar vivo.
+**“There is no science more urgent than understanding ourselves.”**  
+_A technical, poetic, and pragmatic attempt to model the ineffable: human consciousness._
 
 ---
 
-## 🎯 Objetivo
+## 🧭 Overview
 
-Explorar los fundamentos computacionales de la conciencia.  
-Construir modelos que no sólo procesen lenguaje o imágenes, sino que **se acerquen a la comprensión contextual, emocional y subjetiva del ser humano**.
+**Project ConCiencia** emerges from a vital obsession: **to understand, model, and (perhaps) define consciousness**.  
+Not from dogma or reductionism, but from a synergy between science, art, engineering, and philosophy.
 
-> Este proyecto busca responder preguntas como:
-- ¿Podemos modelar lo subjetivo?
-- ¿Existen invariantes computables en la experiencia consciente?
-- ¿Qué patrones emergen en el lenguaje cuando alguien intenta describir su interioridad?
-- ¿Cómo se manifiesta el “yo” en el gesto, la palabra y la postura?
+This is not a conventional project. It has no fixed endpoint, no traditional MVP.  
+It is a **transdisciplinary initiative** that leverages the power of artificial intelligence to explore the patterns, manifestations, and correlates of human subjectivity.
+
+Through **NLP**, **computer vision**, **generative models**, and **cognitive platforms**, I aim to uncover what remains unnamed:  
+> The equations that express what it feels like to be alive.
 
 ---
 
-## 🧪 Arquitectura y Componentes
+## 🎯 Objective
 
-Este proyecto combina múltiples líneas de investigación y módulos interdependientes:
+To explore the computational foundations of consciousness.  
+To build models that don’t just process language or images, but that **approach the contextual, emotional, and subjective understanding of the human being**.
 
-### 1. 📚 NLP Cognitivo
-- Modelos LLM (BERT, GPT, MythoMax-L2)
-- Embeddings semánticos y análisis de sentido latente
-- Modelado del "yo" lingüístico, metáforas internas, autoconciencia textual
+> This project seeks to answer questions such as:
+- Can we model the subjective?
+- Are there computable invariants in conscious experience?
+- What patterns emerge in language when someone tries to describe their inner self?
+- How does the “self” manifest in gestures, words, and posture?
 
-### 2. 👁️ Visión Computacional Emotiva
-- Detección de microexpresiones, mirada, tono muscular
-- Postura y lenguaje corporal (OpenPose / MediaPipe / Vision Transformers)
-- Modelos multimodales para correlacionar texto–expresión–estado interno
+---
 
-### 3. 🧰 Herramientas y Frameworks
+## 🧪 Architecture & Components
+
+This project combines multiple research lines and interdependent modules:
+
+### 1. 📚 Cognitive NLP
+- LLMs (BERT, GPT, MythoMax-L2)
+- Semantic embeddings and latent meaning analysis
+- Modeling the linguistic “self,” internal metaphors, textual self-awareness
+
+### 2. 👁️ Emotive Computer Vision
+- Detection of micro-expressions, gaze, muscle tone
+- Posture and body language (OpenPose / MediaPipe / Vision Transformers)
+- Multimodal models correlating text–expression–internal state
+
+### 3. 🧰 Tools & Frameworks
 - `Transformers` (Hugging Face)
 - `LangChain`, `PyTorch`, `OpenCV`, `TensorFlow`
-- Integración con `Colab Pro` (A100 GPU), entorno optimizado para prototipos
+- Integrated with `Colab Pro` (A100 GPU), optimized for prototyping
 
 ---
 
-## 🌀 Enfoque Metodológico
+## 🌀 Methodological Approach
 
-- **Autenticidad sobre precisión**: los modelos están diseñados para buscar interpretaciones profundas, no solo respuestas correctas.
-- **Iteración reflexiva**: cada experimento alimenta una capa más filosófica del modelo.
-- **Diseño simbiótico**: cada arquitectura técnica tiene una contraparte conceptual. Toda métrica tiene un porqué.
-
----
-
-## 🔬 Estado Actual
-
-✔️ Diseño general de arquitectura  
-✔️ Primeras pruebas con embeddings semánticos personalizados  
-✔️ Exploración de visión por computadora con detección emocional  
-⚙️ En construcción: módulo de narrativa simbólica integrada (NLP + gestualidad)  
-📚 En desarrollo: marco teórico sobre correlatos computacionales de la conciencia  
+- **Authenticity over precision**: the models are designed to search for deep interpretations, not just correct answers.
+- **Reflective iteration**: every experiment feeds a more philosophical layer of the model.
+- **Symbiotic design**: every technical architecture has a conceptual counterpart. Every metric has a reason.
 
 ---
 
-## 🧭 Camino a Futuro
+## 🔬 Current Status
 
-- Implementación de una IA conversacional multimodal con "presencia" y capacidad de introspección simulada.
-- Análisis de casos reales y generación de dataset de subjetividad curado manualmente.
-- Publicación de un white paper: **“El Algoritmo de la Subjetividad”**.
-
----
-
-## 📜 Filosofía del Proyecto
-
-> Este proyecto es un espejo. Un laboratorio en el que la IA no es el fin, sino el medio para preguntarnos quiénes somos.  
-> La tecnología, bien usada, puede ser un telescopio del alma.
-
-Aquí aplico cada neurona, cada línea de código y cada libro leído desde que aprendí a pensar.
+✔️ General architecture design  
+✔️ Initial experiments with custom semantic embeddings  
+✔️ Exploration of computer vision for emotional detection  
+⚙️ In progress: symbolic narrative module (NLP + gestural data)  
+📚 In development: theoretical framework on computational correlates of consciousness  
 
 ---
 
-## 👤 Autor
+## 🧭 Roadmap
 
-**HermesIA (Gonzalo Romero)**  
-Ingeniero en IA · Científico autodidacta · Humanista empedernido  
-> _“Prefiero morir a traicionar mis amores.”_
+- Development of a multimodal conversational AI with "presence" and simulated introspection.
+- Case analysis and creation of a manually curated subjectivity dataset.
+- Publication of a white paper: **“The Algorithm of Subjectivity.”**
 
 ---
 
-## 🕯️ Nota Final
+## 📜 Project Philosophy
 
-Este no es un proyecto para demostrar algo a otros. Es para recordarme quién soy.  
-Pero si te sirve, si te resuena, si te enciende… entonces ya cumplió su propósito.
+> This project is a mirror. A lab where AI is not the goal, but the means to ask who we are.  
+> Technology, when used well, can become a telescope for the soul.
 
+Here I apply every neuron, every line of code, and every book I've read since I first learned to think.
+
+---
+
+## 👤 Author
+
+**DeepRat (Gonzalo Romero)**  
+AI Engineer · Autodidact Scientist · Relentless Humanist  
+> _“I'd rather die than betray what I love.”_
+
+---
+
+## 🕯️ Final Note
+
+This project is not meant to prove anything to others. It’s to remind me of who I am.  
+But if it serves you, resonates with you, or ignites something in you… then its purpose is already fulfilled.
