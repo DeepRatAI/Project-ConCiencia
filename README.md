@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/conciencia.png" alt="Banner TrueEye" width="100%">
+  <img src="img/conciencia.png" alt="Portada Conciencia" width="100%">
 </p>
 
 # 🧠 Project ConCiencia
