@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/conciencia.png" alt="Banner TrueEye" width="100%">
+</p>
+
 # 🧠 Project ConCiencia
 
 **“There is no science more urgent than understanding ourselves.”**  
@@ -21,8 +25,7 @@ Through **NLP**, **computer vision**, **generative models**, and **cognitive pla
 ## 🎯 Objective
 
 To explore the computational foundations of consciousness.  
-To build models that don’t just process language or images, but that **approach the contextual, emotional, and subjective understanding of the human being**.
-
+To build models that don’t just process language or images, but that **approach the contextual, emotional, and subjective understanding of the human being**.n
 > This project seeks to answer questions such as:
 - Can we model the subjective?
 - Are there computable invariants in conscious experience?
